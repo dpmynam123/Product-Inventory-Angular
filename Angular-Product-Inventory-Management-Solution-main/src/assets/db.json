@@ -1,0 +1,202 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": ".johndoe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": "2",
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "id": "191f",
+      "email": "durgaprasadmynam123@gmail.com",
+      "password": "123456",
+      "firstName": "Durgaprasad",
+      "lastName": "Mynam",
+      "location": "tadepalligudem",
+      "mobileNumber": "9347732082"
+    },
+    {
+      "id": "2264",
+      "email": "durgaprasadmynam7@gmail.com",
+      "password": "111111",
+      "firstName": "DURGAPRASAD",
+      "lastName": "MYNAM",
+      "location": "vizag",
+      "mobileNumber": "0987654321"
+    }
+  ],
+  "products": [
+    {
+      "id": "1742034886639",
+      "name": "Oppo reno 10 pro",
+      "description": "Oppo is the popular mobile company",
+      "manufacturer": "Oppo",
+      "price": 32000,
+      "quantity": 2
+    },
+    {
+      "id": 1742034886646,
+      "name": "Sony WH-1000XM5 Headphones",
+      "description": "Noise-canceling wireless headphones with superior sound quality",
+      "manufacturer": "Sony",
+      "price": 29000,
+      "quantity": 4
+    },
+    {
+      "id": 1742034886647,
+      "name": "Logitech MX Master 3 Mouse",
+      "description": "Ergonomic wireless mouse with precision tracking",
+      "manufacturer": "Logitech",
+      "price": 7500,
+      "quantity": 10
+    },
+    {
+      "id": 1742034886648,
+      "name": "Dell Inspiron 15 Laptop",
+      "description": "15.6-inch laptop with Intel i7 processor and 16GB RAM",
+      "manufacturer": "Dell",
+      "price": 72000,
+      "quantity": 3
+    },
+    {
+      "id": 1742034886649,
+      "name": "JBL Flip 6 Bluetooth Speaker",
+      "description": "Portable waterproof speaker with powerful bass",
+      "manufacturer": "JBL",
+      "price": 9500,
+      "quantity": 5
+    },
+    {
+      "id": 1742034886650,
+      "name": "Canon EOS 200D DSLR Camera",
+      "description": "24.1 MP DSLR camera with fast autofocus and great low-light performance",
+      "manufacturer": "Canon",
+      "price": 48000,
+      "quantity": 2
+    },
+    {
+      "id": 1742034886651,
+      "name": "HP LaserJet Pro Printer",
+      "description": "High-speed laser printer for home and office use",
+      "manufacturer": "HP",
+      "price": 18000,
+      "quantity": 3
+    },
+    {
+      "id": 1742034886652,
+      "name": "Samsung 28L Convection Microwave Oven",
+      "description": "Smart microwave oven with multiple cooking modes",
+      "manufacturer": "Samsung",
+      "price": 12000,
+      "quantity": 1
+    },
+    {
+      "id": 1742034886653,
+      "name": "Philips Air Fryer",
+      "description": "Healthy cooking with less oil using rapid air technology",
+      "manufacturer": "Philips",
+      "price": 10500,
+      "quantity": 4
+    },
+    {
+      "id": 1742034886654,
+      "name": "Seagate 2TB External Hard Drive",
+      "description": "Portable HDD with fast data transfer and secure backup",
+      "manufacturer": "Seagate",
+      "price": 6500,
+      "quantity": 6
+    },
+    {
+      "id": 1742034886655,
+      "name": "LG 32\" HD Smart LED TV",
+      "description": "Smart TV with webOS, perfect for streaming and entertainment",
+      "manufacturer": "LG",
+      "price": 25000,
+      "quantity": 3
+    },
+    {
+      "id": 1742034886656,
+      "name": "Bose SoundLink Revolve",
+      "description": "Portable Bluetooth speaker with 360-degree sound",
+      "manufacturer": "Bose",
+      "price": 18000,
+      "quantity": 5
+    },
+    {
+      "id": 1742034886657,
+      "name": "Asus ROG Strix Gaming Laptop",
+      "description": "High-performance laptop with RTX 3060 GPU and 16GB RAM",
+      "manufacturer": "Asus",
+      "price": 95000,
+      "quantity": 2
+    },
+    {
+      "id": 1742034886658,
+      "name": "Samsung Galaxy Watch 5",
+      "description": "Smartwatch with fitness tracking and AMOLED display",
+      "manufacturer": "Samsung",
+      "price": 28000,
+      "quantity": 4
+    },
+    {
+      "id": 1742034886659,
+      "name": "Apple AirPods Pro",
+      "description": "Active noise-canceling wireless earbuds with spatial audio",
+      "manufacturer": "Apple",
+      "price": 24000,
+      "quantity": 6
+    },
+    {
+      "id": 1742034886660,
+      "name": "Mi Smart Air Purifier 4",
+      "description": "Smart air purifier with real-time air quality monitoring",
+      "manufacturer": "Xiaomi",
+      "price": 13000,
+      "quantity": 2
+    },
+    {
+      "id": 1742034886661,
+      "name": "Sony PlayStation 5",
+      "description": "Next-gen gaming console with immersive 4K gaming experience",
+      "manufacturer": "Sony",
+      "price": 55000,
+      "quantity": 3
+    },
+    {
+      "id": 1742034886662,
+      "name": "Logitech G502 Gaming Mouse",
+      "description": "High-precision wired gaming mouse with customizable buttons",
+      "manufacturer": "Logitech",
+      "price": 4500,
+      "quantity": 8
+    },
+    {
+      "id": 1742034886663,
+      "name": "DJI Mini 3 Pro Drone",
+      "description": "Compact drone with 4K camera and intelligent flight modes",
+      "manufacturer": "DJI",
+      "price": 78000,
+      "quantity": 2
+    },
+    {
+      "id": 1742034886664,
+      "name": "Corsair K95 RGB Keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting",
+      "manufacturer": "Corsair",
+      "price": 12000,
+      "quantity": 4
+    }
+  ]
+}

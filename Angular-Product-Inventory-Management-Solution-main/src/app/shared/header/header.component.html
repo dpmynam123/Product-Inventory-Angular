@@ -1,0 +1,15 @@
+<nav class="navbar">
+    <div class="nav-links">
+        <a routerLink="/inventory" routerLinkActive="active">Products</a>
+        <a routerLink="/about" routerLinkActive="active">About</a>
+
+        <ng-container *ngIf="!isLoggedIn()">
+            <a routerLink="/auth/sign-in" routerLinkActive="active">Sign In</a>
+            <a routerLink="/auth/register" routerLinkActive="active">Register</a>
+        </ng-container>
+
+        <ng-container *ngIf="isLoggedIn()">
+            <button (click)="logout()">Logout</button>
+        </ng-container>
+    </div>
+</nav>
